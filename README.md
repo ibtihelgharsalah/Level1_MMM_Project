@@ -21,7 +21,7 @@ In this project, I leverage Excel and its Analysis ToolPak to perform data explo
 
 ## Getting Started
 
-To explore the full details of the MMM project and delve into the analysis, simply download or clone this repository and open the `Book_Worm_MMM_Project.xlsx` file in Excel.
+To explore the full details of the MMM project and delve into the analysis, simply download or clone this repository and open the `MMM project with Excel.xlsx` file in Excel.
 
 ## Course Information
 
